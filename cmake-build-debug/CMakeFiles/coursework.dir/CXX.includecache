@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/art.gorunov/Desktop/Coursework/coursework/main.cpp
+iostream
+-
+vector
+-
+limits
+-
+math.h
+-
+
